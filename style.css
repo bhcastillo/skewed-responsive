@@ -31,6 +31,10 @@ body {
 }
 .three {
   background: url(img/pexels-3.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .fragment-two {
   position: absolute;
